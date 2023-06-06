@@ -1,0 +1,558 @@
+[
+  {
+    "prof": {
+      "id": 1,
+      "name": "AD"
+    }
+  },
+  {
+    "prof": {
+      "id": 2,
+      "name": "AA"
+    }
+  },
+  {
+    "prof": {
+      "id": 3,
+      "name": "BB"
+    }
+  },
+  {
+    "prof": {
+      "id": 4,
+      "name": "CR"
+    }
+  },
+  {
+    "prof": {
+      "id": 5,
+      "name": "CTT"
+    }
+  },
+  {
+    "prof": {
+      "id": 6,
+      "name": "DP"
+    }
+  },
+  {
+    "prof": {
+      "id": 7,
+      "name": "DC"
+    }
+  },
+  {
+    "prof": {
+      "id": 8,
+      "name": "DV"
+    }
+  },
+  {
+    "prof": {
+      "id": 9,
+      "name": "FV"
+    }
+  },
+  {
+    "prof": {
+      "id": 10,
+      "name": "GVE"
+    }
+  },
+  {
+    "prof": {
+      "id": 11,
+      "name": "HK"
+    }
+  },
+  {
+    "prof": {
+      "id": 12,
+      "name": "ID"
+    }
+  },
+  {
+    "prof": {
+      "id": 13,
+      "name": "JV"
+    }
+  },
+  {
+    "prof": {
+      "id": 14,
+      "name": "KK"
+    }
+  },
+  {
+    "prof": {
+      "id": 15,
+      "name": "KR"
+    }
+  },
+  {
+    "prof": {
+      "id": 16,
+      "name": "KS"
+    }
+  },
+  {
+    "prof": {
+      "id": 17,
+      "name": "MB"
+    }
+  },
+  {
+    "prof": {
+      "id": 18,
+      "name": "MDW"
+    }
+  },
+  {
+    "prof": {
+      "id": 19,
+      "name": "OS"
+    }
+  },
+  {
+    "prof": {
+      "id": 20,
+      "name": "SW"
+    }
+  },
+  {
+    "prof": {
+      "id": 21,
+      "name": "SVH"
+    }
+  },
+  {
+    "prof": {
+      "id": 22,
+      "name": "TM"
+    }
+  },
+  {
+    "prof": {
+      "id": 23,
+      "name": "TC"
+    }
+  },
+  {
+    "prof": {
+      "id": 24,
+      "name": "TA"
+    }
+  },
+  {
+    "prof": {
+      "id": 25,
+      "name": "WVR"
+    }
+  },
+  {
+    "course": {
+      "id": 1,
+      "name": "Cyber Security Fundamentals"
+    }
+  },
+  {
+    "course": {
+      "id": 2,
+      "name": "Hardware and Operating Systems"
+    }
+  },
+  {
+    "course": {
+      "id": 3,
+      "name": "Programming Fundamentals"
+    }
+  },
+  {
+    "course": {
+      "id": 4,
+      "name": "Web Development Fundamentals"
+    }
+  },
+  {
+    "course": {
+      "id": 5,
+      "name": "AI and Business Fundamentals"
+    }
+  },
+  {
+    "course": {
+      "id": 6,
+      "name": "Problem Solving"
+    }
+  },
+  {
+    "course": {
+      "id": 7,
+      "name": "Database Fundamentals"
+    }
+  },
+  {
+    "course": {
+      "id": 8,
+      "name": "Data privacy and IT Law"
+    }
+  },
+  {
+    "course": {
+      "id": 9,
+      "name": "Cybercrime"
+    }
+  },
+  {
+    "course": {
+      "id": 10,
+      "name": "Practical Reverse Engineering and Malware Analysis"
+    }
+  },
+  {
+    "course": {
+      "id": 11,
+      "name": "Server System Management - Windows"
+    }
+  },
+  {
+    "course": {
+      "id": 12,
+      "name": "Server System Management - Linux"
+    }
+  },
+  {
+    "course": {
+      "id": 13,
+      "name": "Network and System Pentesting"
+    }
+  },
+  {
+    "course": {
+      "id": 14,
+      "name": "Mobile Security"
+    }
+  },
+  {
+    "course": {
+      "id": 15,
+      "name": "Forensic Analysis"
+    }
+  },
+  {
+    "course": {
+      "id": 16,
+      "name": ".NET Technology Fundamentals"
+    }
+  },
+  {
+    "course": {
+      "id": 17,
+      "name": "Mobile and Smart Technology"
+    }
+  },
+  {
+    "course": {
+      "id": 18,
+      "name": "Machine Learning"
+    }
+  },
+  {
+    "course": {
+      "id": 19,
+      "name": "Data Collection and Preprocessing"
+    }
+  },
+  {
+    "course": {
+      "id": 20,
+      "name": "AR Fundamentals and Development"
+    }
+  },
+  {
+    "course": {
+      "id": 21,
+      "name": "Blockchain Development and Smart Contracting"
+    }
+  },
+  {
+    "room": {
+			"name": "BST.A.1.002",
+			"lab": false,
+			"size": 45
+    }
+  },
+  {
+    "room": {
+			"name": "BST.A.2.002",
+			"lab": false,
+			"size": 70
+    }
+  },
+  {
+    "room": {
+			"name": "BST.A.2.004",
+			"lab": false,
+			"size": 34
+    }
+  },
+  {
+    "room": {
+			"name": "BST.B.0.002",
+			"lab": false,
+			"size": 100
+    }
+  },
+  {
+    "room": {
+			"name": "BST.B.1.004",
+			"lab": false,
+			"size": 36
+    }
+  },
+  {
+    "room": {
+			"name": "BST.B.1.007",
+			"lab": false,
+			"size": 24
+    }
+  },
+  {
+    "room": {
+			"name": "BST.B.1.011",
+			"lab": false,
+			"size": 48
+    }
+  },
+  {
+    "room": {
+			"name": "BST.B.2.001",
+			"lab": false,
+			"size": 60
+    }
+  },
+  {
+    "room": {
+			"name": "BST.C.2.004",
+			"lab": false,
+			"size": 111
+    }
+  },
+  {
+    "room": {
+			"name": "BST.C.2.005",
+			"lab": false,
+			"size": 140
+    }
+  },
+  {
+    "room": {
+			"name": "BST.L.0.206",
+			"lab": false,
+			"size": 120
+    }
+  },
+  {
+    "room": {
+			"name": "BST.L.3.102",
+			"lab": false,
+			"size": 120
+    }
+  },
+  {
+    "room": {
+			"name": "BST.U.0.003",
+			"lab": false,
+			"size": 120
+    }
+  },
+  {
+    "group": {
+			"id": 1,
+			"name": "IT",
+			"size": 100
+    }
+  },
+  {
+    "group": {
+			"id": 2,
+			"name": "CS",
+			"size": 76
+    }
+  },
+  {
+    "group": {
+			"id": 3,
+			"name": "AIBP",
+			"size": 8
+    }
+  },
+  {
+    "class": {
+      "professor": 16,
+      "course": 1,
+      "duration": 3,
+	  "groups": 1
+    }
+  },
+  {
+    "class": {
+      "professor": 14,
+      "course": 2,
+      "duration": 3,
+	  "groups": 1
+    }
+  },
+  {
+    "class": {
+      "professor": 18,
+      "course": 3,
+      "duration": 3,
+	  "groups": 1
+    }
+  },
+  {
+    "class": {
+      "professor": 13,
+      "course": 4,
+      "duration": 3,
+	  "groups": 1
+    }
+  },
+  {
+    "class": {
+      "professor": 3,
+      "course": 5,
+      "duration": 3,
+	  "groups": 1
+    }
+  },
+  {
+    "class": {
+      "professor": 3,
+      "course": 6,
+      "duration": 3,
+	  "groups": 1
+    }
+  },
+  {
+    "class": {
+      "professor": 15,
+      "course": 7,
+      "duration": 3,
+	  "groups": 1
+    }
+  },
+  {
+    "class": {
+      "professor": 20,
+      "course": 8,
+      "duration": 3,
+	  "groups": [2, 3]
+    }
+  },
+  {
+    "class": {
+      "professor": 20,
+      "course": 9,
+      "duration": 3,
+	  "groups": 2
+    }
+  },
+  {
+    "class": {
+      "professor": 24,
+      "course": 10,
+      "duration": 3,
+	  "groups": 2
+    }
+  },
+  {
+    "class": {
+      "professor": 4,
+      "course": 11,
+      "duration": 3,
+	  "groups": 2
+    }
+  },
+  {
+    "class": {
+      "professor": 4,
+      "course": 12,
+      "duration": 3,
+	  "groups": 2
+    }
+  },
+  {
+    "class": {
+      "professor": 1,
+      "course": 13,
+      "duration": 3,
+	  "groups": 2
+    }
+  },
+  {
+    "class": {
+      "professor": 14,
+      "course": 14,
+      "duration": 3,
+	  "groups": 2
+    }
+  },
+  {
+    "class": {
+      "professor": 14,
+      "course": 15,
+      "duration": 3,
+	  "groups": 2
+    }
+  },
+  {
+    "class": {
+      "professor": 7,
+      "course": 16,
+      "duration": 3,
+	  "groups": 2
+    }
+  },
+  {
+    "class": {
+      "professor": 9,
+      "course": 17,
+      "duration": 3,
+	  "groups": 3
+    }
+  },
+  {
+    "class": {
+      "professor": 3,
+      "course": 18,
+      "duration": 3,
+	  "groups": 3
+    }
+  },
+  {
+    "class": {
+      "professor": 21,
+      "course": 19,
+      "duration": 3,
+	  "groups": 3
+    }
+  },
+  {
+    "class": {
+      "professor": 25,
+      "course": 20,
+      "duration": 3,
+	  "groups": 3
+    }
+  },
+  {
+    "class": {
+      "professor": 25,
+      "course": 21,
+      "duration": 3,
+	  "groups": 3
+    }
+  }
+]
